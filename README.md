@@ -1,8 +1,12 @@
-Filename: Readme.txt
+
 Author: Long T. Le
+
 Scribes: Long Le and Tina Eliassi-Rad, Rutgers University
+
 Contact: {longtle, eliassi}@cs.rutgers.edu
+
 Content: How to run LearnLambda
+
 Disclaimer:  This is research prototype code.  It does not have the niceties of a properly engineered code.
 
 
